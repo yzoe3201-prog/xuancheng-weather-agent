@@ -21,9 +21,14 @@ An analysis based on Python &amp; Streamlit for Xuancheng meteorological data, i
 4. 分析结果导出
 
 ## 📷 项目截图
-> 这里后面上传你的运行截图
+<img width="1279" height="764" alt="56ec370a1559b163943ca3cc139cc884" src="https://github.com/user-attachments/assets/d599b70b-095f-4863-b539-d387dd9e0bd9" />
+
 
 ## ▶ 如何运行
+1.先在pycharm上运行data_generator.py和core_functions.py两个文件
+
+2.在pycharm上打开终端：
+
 ```bash
 pip install streamlit pandas plotly
 streamlit run main.py
