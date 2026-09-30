@@ -25,6 +25,8 @@ An analysis based on Python &amp; Streamlit for Xuancheng meteorological data, i
 
 
 ## ▶ 如何运行
+0.打开文件.env 输入deepseek的API
+
 1.先在pycharm上运行data_generator.py和core_functions.py两个文件
 
 2.在pycharm上打开终端：
